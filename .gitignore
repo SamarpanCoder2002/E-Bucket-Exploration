@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+pubspec.lock
+yarn.lock
+
 # production
 /build
 

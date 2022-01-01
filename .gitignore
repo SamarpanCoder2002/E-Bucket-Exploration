@@ -8,9 +8,8 @@
 # testing
 /coverage
 
-pubspec-lock.json
-/build
 yarn.lock
+package-lock.json
 
 # production
 /build

@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/e-bucket-app-landing-page/static/css/main.1d4b8010.css",
+    "main.js": "/e-bucket-app-landing-page/static/js/main.b66e0002.js",
+    "static/media/landing.png": "/e-bucket-app-landing-page/static/media/landing.d9c6e5487e5b9e4799fa.png",
+    "static/media/products-list.png": "/e-bucket-app-landing-page/static/media/products-list.ebb8421b598021a00ad8.png",
+    "static/media/product-showcase.png": "/e-bucket-app-landing-page/static/media/product-showcase.f04a4f3e9430d19443ef.png",
+    "static/media/suggestions.png": "/e-bucket-app-landing-page/static/media/suggestions.c61b0b738007c846a729.png",
+    "static/media/search.png": "/e-bucket-app-landing-page/static/media/search.daad4f8716a29e5c2a8f.png",
+    "index.html": "/e-bucket-app-landing-page/index.html",
+    "main.1d4b8010.css.map": "/e-bucket-app-landing-page/static/css/main.1d4b8010.css.map",
+    "main.b66e0002.js.map": "/e-bucket-app-landing-page/static/js/main.b66e0002.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d4b8010.css",
+    "static/js/main.b66e0002.js"
+  ]
+}
